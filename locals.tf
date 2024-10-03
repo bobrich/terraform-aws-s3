@@ -1,4 +1,4 @@
 // locals.tf.tpl
 locals {
-  module_version = "v1.1.6"
+  module_version = "1.1.7"
 }
